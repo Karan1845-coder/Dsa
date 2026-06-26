@@ -27,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Karan1845-coder/Dsa/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Math
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/Karan1845-coder/Dsa/tree/master/1922-count-good-numbers) |
+## Recursion
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/Karan1845-coder/Dsa/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
