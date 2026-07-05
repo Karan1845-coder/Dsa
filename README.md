@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Karan1845-coder/Dsa/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/Karan1845-coder/Dsa/tree/master/0090-subsets-ii) |
+| [0152-maximum-product-subarray](https://github.com/Karan1845-coder/Dsa/tree/master/0152-maximum-product-subarray) |
 | [0216-combination-sum-iii](https://github.com/Karan1845-coder/Dsa/tree/master/0216-combination-sum-iii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Karan1845-coder/Dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Karan1845-coder/Dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Karan1845-coder/Dsa/tree/master/0022-generate-parentheses) |
+| [0152-maximum-product-subarray](https://github.com/Karan1845-coder/Dsa/tree/master/0152-maximum-product-subarray) |
 | [3620-network-recovery-pathways](https://github.com/Karan1845-coder/Dsa/tree/master/3620-network-recovery-pathways) |
 ## Backtracking
 |  |
