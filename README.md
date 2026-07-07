@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Karan1845-coder/Dsa/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Karan1845-coder/Dsa/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/Karan1845-coder/Dsa/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Karan1845-coder/Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Karan1845-coder/Dsa/tree/master/0152-maximum-product-subarray) |
 | [0216-combination-sum-iii](https://github.com/Karan1845-coder/Dsa/tree/master/0216-combination-sum-iii) |
 | [1288-remove-covered-intervals](https://github.com/Karan1845-coder/Dsa/tree/master/1288-remove-covered-intervals) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Karan1845-coder/Dsa/tree/master/0022-generate-parentheses) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Karan1845-coder/Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Karan1845-coder/Dsa/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Karan1845-coder/Dsa/tree/master/0152-maximum-product-subarray) |
 | [1301-number-of-paths-with-max-score](https://github.com/Karan1845-coder/Dsa/tree/master/1301-number-of-paths-with-max-score) |
