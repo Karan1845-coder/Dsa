@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Karan1845-coder/Dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0242-valid-anagram](https://github.com/Karan1845-coder/Dsa/tree/master/0242-valid-anagram) |
 | [2653-sliding-subarray-beauty](https://github.com/Karan1845-coder/Dsa/tree/master/2653-sliding-subarray-beauty) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Karan1845-coder/Dsa/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Karan1845-coder/Dsa/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Karan1845-coder/Dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Karan1845-coder/Dsa/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Karan1845-coder/Dsa/tree/master/0131-palindrome-partitioning) |
+| [0242-valid-anagram](https://github.com/Karan1845-coder/Dsa/tree/master/0242-valid-anagram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Karan1845-coder/Dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Dynamic Programming
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Karan1845-coder/Dsa/tree/master/0242-valid-anagram) |
 | [1288-remove-covered-intervals](https://github.com/Karan1845-coder/Dsa/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Karan1845-coder/Dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Binary Search
