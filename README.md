@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Karan1845-coder/Dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Karan1845-coder/Dsa/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Karan1845-coder/Dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Karan1845-coder/Dsa/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Karan1845-coder/Dsa/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Karan1845-coder/Dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Karan1845-coder/Dsa/tree/master/3620-network-recovery-pathways) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Karan1845-coder/Dsa/tree/master/0013-roman-to-integer) |
 | [1922-count-good-numbers](https://github.com/Karan1845-coder/Dsa/tree/master/1922-count-good-numbers) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Karan1845-coder/Dsa/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Karan1845-coder/Dsa/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Karan1845-coder/Dsa/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Karan1845-coder/Dsa/tree/master/0152-maximum-product-subarray) |
 | [1301-number-of-paths-with-max-score](https://github.com/Karan1845-coder/Dsa/tree/master/1301-number-of-paths-with-max-score) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Karan1845-coder/Dsa/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/Karan1845-coder/Dsa/tree/master/3620-network-recovery-pathways) |
 ## Backtracking
 |  |
@@ -213,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Karan1845-coder/Dsa/tree/master/0014-longest-common-prefix) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Karan1845-coder/Dsa/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
