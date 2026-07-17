@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Karan1845-coder/Dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Karan1845-coder/Dsa/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Karan1845-coder/Dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0126-word-ladder-ii](https://github.com/Karan1845-coder/Dsa/tree/master/0126-word-ladder-ii) |
 | [0242-valid-anagram](https://github.com/Karan1845-coder/Dsa/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/Karan1845-coder/Dsa/tree/master/1331-rank-transform-of-an-array) |
 | [2653-sliding-subarray-beauty](https://github.com/Karan1845-coder/Dsa/tree/master/2653-sliding-subarray-beauty) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Karan1845-coder/Dsa/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Karan1845-coder/Dsa/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Karan1845-coder/Dsa/tree/master/0067-add-binary) |
+| [0126-word-ladder-ii](https://github.com/Karan1845-coder/Dsa/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/Karan1845-coder/Dsa/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/Karan1845-coder/Dsa/tree/master/0242-valid-anagram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Karan1845-coder/Dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Karan1845-coder/Dsa/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Karan1845-coder/Dsa/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/Karan1845-coder/Dsa/tree/master/0090-subsets-ii) |
+| [0126-word-ladder-ii](https://github.com/Karan1845-coder/Dsa/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/Karan1845-coder/Dsa/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Karan1845-coder/Dsa/tree/master/0216-combination-sum-iii) |
 ## Enumeration
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Karan1845-coder/Dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Karan1845-coder/Dsa/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0126-word-ladder-ii](https://github.com/Karan1845-coder/Dsa/tree/master/0126-word-ladder-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Karan1845-coder/Dsa/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Karan1845-coder/Dsa/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Karan1845-coder/Dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
