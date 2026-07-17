@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Karan1845-coder/Dsa/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/Karan1845-coder/Dsa/tree/master/0067-add-binary) |
 | [1922-count-good-numbers](https://github.com/Karan1845-coder/Dsa/tree/master/1922-count-good-numbers) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Karan1845-coder/Dsa/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Karan1845-coder/Dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Karan1845-coder/Dsa/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Karan1845-coder/Dsa/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Karan1845-coder/Dsa/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Karan1845-coder/Dsa/tree/master/0067-add-binary) |
 | [0131-palindrome-partitioning](https://github.com/Karan1845-coder/Dsa/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/Karan1845-coder/Dsa/tree/master/0242-valid-anagram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Karan1845-coder/Dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Karan1845-coder/Dsa/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/Karan1845-coder/Dsa/tree/master/0090-subsets-ii) |
 ## Graph Theory
 |  |
@@ -254,5 +257,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Karan1845-coder/Dsa/tree/master/0067-add-binary) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Karan1845-coder/Dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
