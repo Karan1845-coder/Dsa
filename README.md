@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Karan1845-coder/Dsa/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Karan1845-coder/Dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Karan1845-coder/Dsa/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/Karan1845-coder/Dsa/tree/master/0066-plus-one) |
 | [0090-subsets-ii](https://github.com/Karan1845-coder/Dsa/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Karan1845-coder/Dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karan1845-coder/Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Karan1845-coder/Dsa/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Karan1845-coder/Dsa/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Karan1845-coder/Dsa/tree/master/0067-add-binary) |
 | [1922-count-good-numbers](https://github.com/Karan1845-coder/Dsa/tree/master/1922-count-good-numbers) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Karan1845-coder/Dsa/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
