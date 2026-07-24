@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Karan1845-coder/Dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/Karan1845-coder/Dsa/tree/master/0126-word-ladder-ii) |
 | [0242-valid-anagram](https://github.com/Karan1845-coder/Dsa/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Karan1845-coder/Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [1331-rank-transform-of-an-array](https://github.com/Karan1845-coder/Dsa/tree/master/1331-rank-transform-of-an-array) |
 | [2653-sliding-subarray-beauty](https://github.com/Karan1845-coder/Dsa/tree/master/2653-sliding-subarray-beauty) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Karan1845-coder/Dsa/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Karan1845-coder/Dsa/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/Karan1845-coder/Dsa/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/Karan1845-coder/Dsa/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Karan1845-coder/Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Karan1845-coder/Dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Karan1845-coder/Dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Karan1845-coder/Dsa/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Karan1845-coder/Dsa/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Karan1845-coder/Dsa/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Karan1845-coder/Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Karan1845-coder/Dsa/tree/master/0455-assign-cookies) |
 | [0826-most-profit-assigning-work](https://github.com/Karan1845-coder/Dsa/tree/master/0826-most-profit-assigning-work) |
 | [1288-remove-covered-intervals](https://github.com/Karan1845-coder/Dsa/tree/master/1288-remove-covered-intervals) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Karan1845-coder/Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Karan1845-coder/Dsa/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Karan1845-coder/Dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Karan1845-coder/Dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -307,4 +311,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Karan1845-coder/Dsa/tree/master/0099-recover-binary-search-tree) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Karan1845-coder/Dsa/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Karan1845-coder/Dsa/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
