@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Karan1845-coder/Dsa/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/Karan1845-coder/Dsa/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Karan1845-coder/Dsa/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Karan1845-coder/Dsa/tree/master/0052-n-queens-ii) |
 | [0090-subsets-ii](https://github.com/Karan1845-coder/Dsa/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/Karan1845-coder/Dsa/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/Karan1845-coder/Dsa/tree/master/0131-palindrome-partitioning) |
