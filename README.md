@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Karan1845-coder/Dsa/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/Karan1845-coder/Dsa/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Karan1845-coder/Dsa/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Karan1845-coder/Dsa/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/Karan1845-coder/Dsa/tree/master/0204-count-primes) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Karan1845-coder/Dsa/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Karan1845-coder/Dsa/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Karan1845-coder/Dsa/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Karan1845-coder/Dsa/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Karan1845-coder/Dsa/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Karan1845-coder/Dsa/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Karan1845-coder/Dsa/tree/master/0067-add-binary) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Karan1845-coder/Dsa/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Karan1845-coder/Dsa/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/Karan1845-coder/Dsa/tree/master/1260-shift-2d-grid) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Karan1845-coder/Dsa/tree/master/2462-total-cost-to-hire-k-workers) |
