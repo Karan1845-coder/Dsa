@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Karan1845-coder/Dsa/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Karan1845-coder/Dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karan1845-coder/Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/Karan1845-coder/Dsa/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Karan1845-coder/Dsa/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/Karan1845-coder/Dsa/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Karan1845-coder/Dsa/tree/master/0204-count-primes) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Karan1845-coder/Dsa/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Karan1845-coder/Dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/Karan1845-coder/Dsa/tree/master/0126-word-ladder-ii) |
+| [0139-word-break](https://github.com/Karan1845-coder/Dsa/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/Karan1845-coder/Dsa/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Karan1845-coder/Dsa/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Karan1845-coder/Dsa/tree/master/0349-intersection-of-two-arrays) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Karan1845-coder/Dsa/tree/master/0071-simplify-path) |
 | [0126-word-ladder-ii](https://github.com/Karan1845-coder/Dsa/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/Karan1845-coder/Dsa/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Karan1845-coder/Dsa/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/Karan1845-coder/Dsa/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/Karan1845-coder/Dsa/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Karan1845-coder/Dsa/tree/master/0451-sort-characters-by-frequency) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Karan1845-coder/Dsa/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karan1845-coder/Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Karan1845-coder/Dsa/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Karan1845-coder/Dsa/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Karan1845-coder/Dsa/tree/master/0152-maximum-product-subarray) |
 | [1301-number-of-paths-with-max-score](https://github.com/Karan1845-coder/Dsa/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Karan1845-coder/Dsa/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -300,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Karan1845-coder/Dsa/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Karan1845-coder/Dsa/tree/master/0139-word-break) |
 ## Number Theory
 |  |
 | ------- |
@@ -351,4 +356,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Karan1845-coder/Dsa/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Karan1845-coder/Dsa/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
