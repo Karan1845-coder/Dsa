@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Karan1845-coder/Dsa/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Karan1845-coder/Dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/Karan1845-coder/Dsa/tree/master/0126-word-ladder-ii) |
+| [0202-happy-number](https://github.com/Karan1845-coder/Dsa/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Karan1845-coder/Dsa/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Karan1845-coder/Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [1331-rank-transform-of-an-array](https://github.com/Karan1845-coder/Dsa/tree/master/1331-rank-transform-of-an-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Karan1845-coder/Dsa/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Karan1845-coder/Dsa/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Karan1845-coder/Dsa/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Karan1845-coder/Dsa/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Karan1845-coder/Dsa/tree/master/0204-count-primes) |
 | [1922-count-good-numbers](https://github.com/Karan1845-coder/Dsa/tree/master/1922-count-good-numbers) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Karan1845-coder/Dsa/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Karan1845-coder/Dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0202-happy-number](https://github.com/Karan1845-coder/Dsa/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/Karan1845-coder/Dsa/tree/master/0455-assign-cookies) |
 | [0826-most-profit-assigning-work](https://github.com/Karan1845-coder/Dsa/tree/master/0826-most-profit-assigning-work) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Karan1845-coder/Dsa/tree/master/2462-total-cost-to-hire-k-workers) |
