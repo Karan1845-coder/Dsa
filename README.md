@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Karan1845-coder/Dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Karan1845-coder/Dsa/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Karan1845-coder/Dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3894-traffic-signal-color](https://github.com/Karan1845-coder/Dsa/tree/master/3894-traffic-signal-color) |
 ## Recursion
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Karan1845-coder/Dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Karan1845-coder/Dsa/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Karan1845-coder/Dsa/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3894-traffic-signal-color](https://github.com/Karan1845-coder/Dsa/tree/master/3894-traffic-signal-color) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Karan1845-coder/Dsa/tree/master/1260-shift-2d-grid) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Karan1845-coder/Dsa/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Karan1845-coder/Dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3894-traffic-signal-color](https://github.com/Karan1845-coder/Dsa/tree/master/3894-traffic-signal-color) |
 ## Monotonic Stack
 |  |
 | ------- |
