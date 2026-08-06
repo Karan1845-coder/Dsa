@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Karan1845-coder/Dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Karan1845-coder/Dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Karan1845-coder/Dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1854-maximum-population-year](https://github.com/Karan1845-coder/Dsa/tree/master/1854-maximum-population-year) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Karan1845-coder/Dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Karan1845-coder/Dsa/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2611-mice-and-cheese](https://github.com/Karan1845-coder/Dsa/tree/master/2611-mice-and-cheese) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1854-maximum-population-year](https://github.com/Karan1845-coder/Dsa/tree/master/1854-maximum-population-year) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Karan1845-coder/Dsa/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Karan1845-coder/Dsa/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Karan1845-coder/Dsa/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Karan1845-coder/Dsa/tree/master/0451-sort-characters-by-frequency) |
+| [1854-maximum-population-year](https://github.com/Karan1845-coder/Dsa/tree/master/1854-maximum-population-year) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Karan1845-coder/Dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Memoization
 |  |
