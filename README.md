@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Karan1845-coder/Dsa/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Karan1845-coder/Dsa/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/Karan1845-coder/Dsa/tree/master/0216-combination-sum-iii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Karan1845-coder/Dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Karan1845-coder/Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Karan1845-coder/Dsa/tree/master/0455-assign-cookies) |
 | [0826-most-profit-assigning-work](https://github.com/Karan1845-coder/Dsa/tree/master/0826-most-profit-assigning-work) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Karan1845-coder/Dsa/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Karan1845-coder/Dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Karan1845-coder/Dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Karan1845-coder/Dsa/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Karan1845-coder/Dsa/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Karan1845-coder/Dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Karan1845-coder/Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0826-most-profit-assigning-work](https://github.com/Karan1845-coder/Dsa/tree/master/0826-most-profit-assigning-work) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Karan1845-coder/Dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Karan1845-coder/Dsa/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Karan1845-coder/Dsa/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Karan1845-coder/Dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/Karan1845-coder/Dsa/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Karan1845-coder/Dsa/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Karan1845-coder/Dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
