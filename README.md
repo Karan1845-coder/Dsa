@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Karan1845-coder/Dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Karan1845-coder/Dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0200-number-of-islands](https://github.com/Karan1845-coder/Dsa/tree/master/0200-number-of-islands) |
+| [0543-diameter-of-binary-tree](https://github.com/Karan1845-coder/Dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Karan1845-coder/Dsa/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Karan1845-coder/Dsa/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Karan1845-coder/Dsa/tree/master/2685-count-the-number-of-complete-components) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Karan1845-coder/Dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Karan1845-coder/Dsa/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Karan1845-coder/Dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0543-diameter-of-binary-tree](https://github.com/Karan1845-coder/Dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Karan1845-coder/Dsa/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Karan1845-coder/Dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Karan1845-coder/Dsa/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Karan1845-coder/Dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0543-diameter-of-binary-tree](https://github.com/Karan1845-coder/Dsa/tree/master/0543-diameter-of-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -404,4 +407,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Karan1845-coder/Dsa/tree/master/0877-stone-game) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Karan1845-coder/Dsa/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
