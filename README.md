@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Karan1845-coder/Dsa/tree/master/0455-assign-cookies) |
 | [0826-most-profit-assigning-work](https://github.com/Karan1845-coder/Dsa/tree/master/0826-most-profit-assigning-work) |
 | [0877-stone-game](https://github.com/Karan1845-coder/Dsa/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Karan1845-coder/Dsa/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Karan1845-coder/Dsa/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Karan1845-coder/Dsa/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Karan1845-coder/Dsa/tree/master/1301-number-of-paths-with-max-score) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Karan1845-coder/Dsa/tree/master/1140-stone-game-ii) |
 | [1854-maximum-population-year](https://github.com/Karan1845-coder/Dsa/tree/master/1854-maximum-population-year) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Karan1845-coder/Dsa/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Karan1845-coder/Dsa/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Karan1845-coder/Dsa/tree/master/0204-count-primes) |
 | [0264-ugly-number-ii](https://github.com/Karan1845-coder/Dsa/tree/master/0264-ugly-number-ii) |
 | [0877-stone-game](https://github.com/Karan1845-coder/Dsa/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Karan1845-coder/Dsa/tree/master/1140-stone-game-ii) |
 | [1922-count-good-numbers](https://github.com/Karan1845-coder/Dsa/tree/master/1922-count-good-numbers) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Karan1845-coder/Dsa/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Karan1845-coder/Dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Karan1845-coder/Dsa/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/Karan1845-coder/Dsa/tree/master/0264-ugly-number-ii) |
 | [0877-stone-game](https://github.com/Karan1845-coder/Dsa/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Karan1845-coder/Dsa/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Karan1845-coder/Dsa/tree/master/1301-number-of-paths-with-max-score) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Karan1845-coder/Dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Karan1845-coder/Dsa/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -410,8 +414,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Karan1845-coder/Dsa/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Karan1845-coder/Dsa/tree/master/1140-stone-game-ii) |
 ## DP on Trees
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Karan1845-coder/Dsa/tree/master/0543-diameter-of-binary-tree) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Karan1845-coder/Dsa/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Karan1845-coder/Dsa/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
