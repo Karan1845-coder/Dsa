@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Karan1845-coder/Dsa/tree/master/0264-ugly-number-ii) |
 | [0877-stone-game](https://github.com/Karan1845-coder/Dsa/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Karan1845-coder/Dsa/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Karan1845-coder/Dsa/tree/master/1510-stone-game-iv) |
 | [1922-count-good-numbers](https://github.com/Karan1845-coder/Dsa/tree/master/1922-count-good-numbers) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Karan1845-coder/Dsa/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Karan1845-coder/Dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Karan1845-coder/Dsa/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Karan1845-coder/Dsa/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Karan1845-coder/Dsa/tree/master/1301-number-of-paths-with-max-score) |
+| [1510-stone-game-iv](https://github.com/Karan1845-coder/Dsa/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Karan1845-coder/Dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Karan1845-coder/Dsa/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/Karan1845-coder/Dsa/tree/master/3620-network-recovery-pathways) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/Karan1845-coder/Dsa/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Karan1845-coder/Dsa/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Karan1845-coder/Dsa/tree/master/1510-stone-game-iv) |
 ## DP on Trees
 |  |
 | ------- |
@@ -423,8 +426,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Karan1845-coder/Dsa/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Karan1845-coder/Dsa/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Karan1845-coder/Dsa/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Karan1845-coder/Dsa/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Karan1845-coder/Dsa/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Karan1845-coder/Dsa/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
