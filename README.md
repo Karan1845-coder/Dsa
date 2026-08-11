@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Karan1845-coder/Dsa/tree/master/0455-assign-cookies) |
 | [0826-most-profit-assigning-work](https://github.com/Karan1845-coder/Dsa/tree/master/0826-most-profit-assigning-work) |
 | [0877-stone-game](https://github.com/Karan1845-coder/Dsa/tree/master/0877-stone-game) |
+| [0994-rotting-oranges](https://github.com/Karan1845-coder/Dsa/tree/master/0994-rotting-oranges) |
 | [1140-stone-game-ii](https://github.com/Karan1845-coder/Dsa/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Karan1845-coder/Dsa/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Karan1845-coder/Dsa/tree/master/1288-remove-covered-intervals) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Karan1845-coder/Dsa/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0126-word-ladder-ii](https://github.com/Karan1845-coder/Dsa/tree/master/0126-word-ladder-ii) |
 | [0200-number-of-islands](https://github.com/Karan1845-coder/Dsa/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/Karan1845-coder/Dsa/tree/master/0994-rotting-oranges) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Karan1845-coder/Dsa/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Karan1845-coder/Dsa/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Karan1845-coder/Dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Karan1845-coder/Dsa/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Karan1845-coder/Dsa/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Karan1845-coder/Dsa/tree/master/0240-search-a-2d-matrix-ii) |
+| [0994-rotting-oranges](https://github.com/Karan1845-coder/Dsa/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Karan1845-coder/Dsa/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Karan1845-coder/Dsa/tree/master/1301-number-of-paths-with-max-score) |
 | [1901-find-a-peak-element-ii](https://github.com/Karan1845-coder/Dsa/tree/master/1901-find-a-peak-element-ii) |
