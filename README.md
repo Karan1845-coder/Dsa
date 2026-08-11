@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2653-sliding-subarray-beauty](https://github.com/Karan1845-coder/Dsa/tree/master/2653-sliding-subarray-beauty) |
 | [2735-collecting-chocolates](https://github.com/Karan1845-coder/Dsa/tree/master/2735-collecting-chocolates) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Karan1845-coder/Dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Karan1845-coder/Dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Karan1845-coder/Dsa/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Karan1845-coder/Dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Karan1845-coder/Dsa/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Karan1845-coder/Dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Karan1845-coder/Dsa/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [2653-sliding-subarray-beauty](https://github.com/Karan1845-coder/Dsa/tree/master/2653-sliding-subarray-beauty) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Karan1845-coder/Dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Karan1845-coder/Dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Karan1845-coder/Dsa/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Karan1845-coder/Dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Karan1845-coder/Dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Karan1845-coder/Dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2611-mice-and-cheese](https://github.com/Karan1845-coder/Dsa/tree/master/2611-mice-and-cheese) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Karan1845-coder/Dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Karan1845-coder/Dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Karan1845-coder/Dsa/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Karan1845-coder/Dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
