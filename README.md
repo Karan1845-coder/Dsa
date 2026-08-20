@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Karan1845-coder/Dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Karan1845-coder/Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Karan1845-coder/Dsa/tree/master/0455-assign-cookies) |
+| [0654-maximum-binary-tree](https://github.com/Karan1845-coder/Dsa/tree/master/0654-maximum-binary-tree) |
 | [0826-most-profit-assigning-work](https://github.com/Karan1845-coder/Dsa/tree/master/0826-most-profit-assigning-work) |
 | [0877-stone-game](https://github.com/Karan1845-coder/Dsa/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/Karan1845-coder/Dsa/tree/master/0994-rotting-oranges) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Karan1845-coder/Dsa/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Karan1845-coder/Dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Karan1845-coder/Dsa/tree/master/0240-search-a-2d-matrix-ii) |
+| [0654-maximum-binary-tree](https://github.com/Karan1845-coder/Dsa/tree/master/0654-maximum-binary-tree) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Karan1845-coder/Dsa/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Karan1845-coder/Dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/Karan1845-coder/Dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Karan1845-coder/Dsa/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0654-maximum-binary-tree](https://github.com/Karan1845-coder/Dsa/tree/master/0654-maximum-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Karan1845-coder/Dsa/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Karan1845-coder/Dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/Karan1845-coder/Dsa/tree/master/0543-diameter-of-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/Karan1845-coder/Dsa/tree/master/0654-maximum-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -391,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Karan1845-coder/Dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0394-decode-string](https://github.com/Karan1845-coder/Dsa/tree/master/0394-decode-string) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Karan1845-coder/Dsa/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0654-maximum-binary-tree](https://github.com/Karan1845-coder/Dsa/tree/master/0654-maximum-binary-tree) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Karan1845-coder/Dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Karan1845-coder/Dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Simulation
@@ -405,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0654-maximum-binary-tree](https://github.com/Karan1845-coder/Dsa/tree/master/0654-maximum-binary-tree) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Karan1845-coder/Dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Binary Search Tree
 |  |
@@ -453,4 +459,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Karan1845-coder/Dsa/tree/master/1510-stone-game-iv) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Karan1845-coder/Dsa/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
